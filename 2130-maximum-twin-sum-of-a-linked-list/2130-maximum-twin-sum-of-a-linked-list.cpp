@@ -11,6 +11,36 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        
+
+        // Step 1: find middle
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // Step 2: reverse second half
+        ListNode* prev = NULL;
+        while (slow) {
+            ListNode* nextNode = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = nextNode;
+        }
+
+        // Step 3: calculate max twin sum
+        int maxi = 0;
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while (second) {
+            maxi = max(maxi, first->val + second->val);
+            first = first->next;
+            second = second->next;
+        }
+
+        return maxi;
     }
 };
