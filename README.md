@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh-0506/LeetSub/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
 | [3838-weighted-word-mapping](https://github.com/Saurabh-0506/LeetSub/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
