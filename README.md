@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saurabh-0506/LeetSub/tree/master/1021-remove-outermost-parentheses) |
 | [3838-weighted-word-mapping](https://github.com/Saurabh-0506/LeetSub/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saurabh-0506/LeetSub/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
