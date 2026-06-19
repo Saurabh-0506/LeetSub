@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
