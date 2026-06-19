@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
 | [0739-daily-temperatures](https://github.com/Saurabh-0506/LeetSub/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Saurabh-0506/LeetSub/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 <!---LeetCode Topics End-->
