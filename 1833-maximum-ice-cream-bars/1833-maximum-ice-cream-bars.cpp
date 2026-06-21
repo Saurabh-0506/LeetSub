@@ -1,17 +1,23 @@
 class Solution {
 public:
-    int maxIceCream(vector<int>& costs, int coins){
+    int maxIceCream(vector<int>& costs, int coins) {
 
-        int n = costs.size();
-        int count = 0;
-        sort(costs.begin(),costs.end());
-        for(int i =0;i<n;i++){
+        vector<int>freq(100001,0);
 
-            if(costs[i] <= coins){
+        for(auto t_cost : costs){
+            freq[t_cost]++;
+        }
+        int count =0;
+        for(int t_cost = 1; t_cost<= 100000; t_cost++){
+
+            while(freq[t_cost] > 0 && coins >= t_cost){
+                coins = coins - t_cost;
                 count++;
-                coins = coins - costs[i]; 
+
+                freq[t_cost]--;
             }
         }
+
         return count;
     }
 };
