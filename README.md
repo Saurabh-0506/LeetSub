@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saurabh-0506/LeetSub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Saurabh-0506/LeetSub/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3838-weighted-word-mapping](https://github.com/Saurabh-0506/LeetSub/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
