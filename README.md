@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saurabh-0506/LeetSub/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Saurabh-0506/LeetSub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Saurabh-0506/LeetSub/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 | [3838-weighted-word-mapping](https://github.com/Saurabh-0506/LeetSub/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
