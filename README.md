@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh-0506/LeetSub/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
+| [0704-binary-search](https://github.com/Saurabh-0506/LeetSub/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Saurabh-0506/LeetSub/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Saurabh-0506/LeetSub/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
