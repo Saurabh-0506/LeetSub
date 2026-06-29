@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Saurabh-0506/LeetSub/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
