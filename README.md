@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Saurabh-0506/LeetSub/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Saurabh-0506/LeetSub/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh-0506/LeetSub/tree/master/0905-sort-array-by-parity) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saurabh-0506/LeetSub/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Saurabh-0506/LeetSub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2270-number-of-ways-to-split-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
