@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Saurabh-0506/LeetSub/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh-0506/LeetSub/tree/master/0905-sort-array-by-parity) |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurabh-0506/LeetSub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2270-number-of-ways-to-split-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/1748-sum-of-unique-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Binary Search
