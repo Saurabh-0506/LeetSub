@@ -1,23 +1,19 @@
 class Solution {
 public:
-    // dp solution
-    int solve(int n, vector<int>&dp){
+    int fib(int n) {
+        // bottom up approach
+
+        vector<int>dp(n+1);
         if(n<=1){
             return n;
         }
-        // step 3;
-        if(dp[n] != -1){
-            return dp[n];
+        dp[1] = 1;
+        dp[0] = 0;
+
+        for(int i =2;i<=n;i++){
+            dp[i] = dp[i-2] + dp[i-1];
         }
-        //step2
-        dp[n] = solve(n-1,dp) + solve(n-2,dp);
         return dp[n];
-    }
-    int fib(int n) {
-
-        vector<int>dp(n+1,-1);
-
-        return solve(n,dp);
-        
+          
     }
 };
