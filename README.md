@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saurabh-0506/LeetSub/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Saurabh-0506/LeetSub/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
