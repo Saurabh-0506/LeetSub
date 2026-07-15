@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saurabh-0506/LeetSub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurabh-0506/LeetSub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Saurabh-0506/LeetSub/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saurabh-0506/LeetSub/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
