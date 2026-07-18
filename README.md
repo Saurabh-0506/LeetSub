@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saurabh-0506/LeetSub/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh-0506/LeetSub/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Saurabh-0506/LeetSub/tree/master/0704-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saurabh-0506/LeetSub/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Saurabh-0506/LeetSub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh-0506/LeetSub/tree/master/0905-sort-array-by-parity) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
