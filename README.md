@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Saurabh-0506/LeetSub/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurabh-0506/LeetSub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saurabh-0506/LeetSub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurabh-0506/LeetSub/tree/master/2161-partition-array-according-to-given-pivot) |
