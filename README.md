@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh-0506/LeetSub/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Saurabh-0506/LeetSub/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Saurabh-0506/LeetSub/tree/master/0704-binary-search) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Saurabh-0506/LeetSub/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh-0506/LeetSub/tree/master/0905-sort-array-by-parity) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-0506/LeetSub/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
