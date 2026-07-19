@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh-0506/LeetSub/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saurabh-0506/LeetSub/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh-0506/LeetSub/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Saurabh-0506/LeetSub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh-0506/LeetSub/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh-0506/LeetSub/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Saurabh-0506/LeetSub/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saurabh-0506/LeetSub/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurabh-0506/LeetSub/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saurabh-0506/LeetSub/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh-0506/LeetSub/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Saurabh-0506/LeetSub/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurabh-0506/LeetSub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saurabh-0506/LeetSub/tree/master/0704-binary-search) |
@@ -180,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh-0506/LeetSub/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saurabh-0506/LeetSub/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
