@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurabh-0506/LeetSub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2270-number-of-ways-to-split-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3731-find-missing-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Saurabh-0506/LeetSub/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/1748-sum-of-unique-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saurabh-0506/LeetSub/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3731-find-missing-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurabh-0506/LeetSub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saurabh-0506/LeetSub/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saurabh-0506/LeetSub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3731-find-missing-elements](https://github.com/Saurabh-0506/LeetSub/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
